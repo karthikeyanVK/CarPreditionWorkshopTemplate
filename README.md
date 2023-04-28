@@ -30,6 +30,8 @@ Overall, this project will provide a comprehensive overview of the process of pr
 
 - Install the jupyter extension from within Visual Studio Code by searching for "jupyter" in the extensions marketplace. 
 
-- Create a virtual environment using the Anaconda prompt by running the command `conda create --name myenv`
-- Activate the virtual environment by running `conda activate myenv`
+- Create a virtual environment using the Anaconda prompt by running the command `conda create --name dsworkshopenv`
+- Activate the virtual environment by running `conda activate dsworkshopenv`
+
+- Open Visual studio code and open CarPricePrediction.ipynb notebook for the workshop
 
