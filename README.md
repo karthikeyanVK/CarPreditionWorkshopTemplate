@@ -24,7 +24,7 @@ Overall, this project will provide a comprehensive overview of the process of pr
 
 - Download Anaconda from their website and follow the installation instructions for your operating system. https://www.anaconda.com/download/
 
-- Download Visual Studio Code from their website and follow the installation instructions for your operating system. https://visualstudio.microsoft.com/
+- Download Visual Studio Code from their website and follow the installation instructions for your operating system. https://code.visualstudio.com/Download
 
 - Install the Python extension from within Visual Studio Code by searching for "Python" in the extensions marketplace. 
 
