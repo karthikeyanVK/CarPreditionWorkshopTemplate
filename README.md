@@ -34,6 +34,6 @@ Overall, this project will provide a comprehensive overview of the process of pr
 - Activate the virtual environment by running `conda activate dsworkshopenv`
 - Clone this repo using the command `git clone https://github.com/karthikeyanVK/CarPreditionWorkshopTemplate.git`
 - Open Visual studio code, open the folder where the repo is cloned and open CarPricePrediction.ipynb notebook for the workshop
-- Press ctrl+shitf+p and type interpreter and select python:select interpreter ![image](https://user-images.githubusercontent.com/11407921/235212212-c75b89b7-ddde-4e10-b68e-b09ea818a61d.png)
+- Press ctrl+shitf+p and type interpreter and select python:select interpreter and again select dsworkshopenv ![image](https://user-images.githubusercontent.com/11407921/235212212-c75b89b7-ddde-4e10-b68e-b09ea818a61d.png)
 
 
