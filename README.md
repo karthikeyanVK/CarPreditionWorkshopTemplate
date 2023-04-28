@@ -32,4 +32,4 @@ Overall, this project will provide a comprehensive overview of the process of pr
 
 - Create a virtual environment using the Anaconda prompt by running the command `conda create --name myenv`
 - Activate the virtual environment by running `conda activate myenv`
-# CarPreditionWorkshopTemplate
+
