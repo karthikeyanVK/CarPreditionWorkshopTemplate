@@ -32,6 +32,6 @@ Overall, this project will provide a comprehensive overview of the process of pr
 
 - Create a virtual environment using the Anaconda prompt by running the command `conda create --name dsworkshopenv`
 - Activate the virtual environment by running `conda activate dsworkshopenv`
-
-- Open Visual studio code and open CarPricePrediction.ipynb notebook for the workshop
+- Clone this repo using the command `git clone https://github.com/karthikeyanVK/CarPreditionWorkshopTemplate.git`
+- Open Visual studio code, open the folder where the repo is cloned and open CarPricePrediction.ipynb notebook for the workshop
 
